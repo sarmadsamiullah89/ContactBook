@@ -2,6 +2,7 @@ import React from 'react'
 import { Text, View, SafeAreaView, TouchableOpacity } from 'react-native'
 import styles from './styles'
 
+
 const Home = ({navigation}:any) => {
     return (
         <SafeAreaView style={styles.mainConatiner}>
